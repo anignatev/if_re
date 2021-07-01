@@ -1,3 +1,7 @@
+// Driver with error fix when compile driver v. 1.96.04 for FreeBSD 13.x kernel
+// with compiled version for FreeBSD 13.0 and bug fix for compile in this version of os)
+
+
 =================================================================================
 =  Realtek 8169S/8169SB/8169SC/8168B/8168C/8168CP/8168D/8168DP/8168E/8168F      =
 =  8168FB/8168G/818GU/8168H/8168EP/8411/8168FP                                  =
@@ -5,6 +9,7 @@
 =  8125 Driver                                                                  =
 =  for FreeBSD v4.x/5.x/6.x/7.x/8.x/9.x/10.x/11.x//12.x                         =
 =================================================================================
+
 
 This driver is modified by Realtek Semiconductor corp. and it has been tested OK
 on FreeBSD v5.4, FreeBSD v6.4, FreeBSD v7.3, FreeBSD v8.0, and FreeBSD v9.0. To
