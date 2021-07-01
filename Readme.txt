@@ -1,5 +1,5 @@
 // Driver with error fix when compile driver v. 1.96.04 for FreeBSD 13.x kernel
-// with compiled version for FreeBSD 13.0 and bug fix for compile in this version of os)
+// with compiled version for FreeBSD 13.0
 
 
 =================================================================================
