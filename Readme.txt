@@ -1,5 +1,16 @@
+---------------------------------------------------------------------------------
 // Driver with error fix when compile driver v. 1.96.04 for FreeBSD 13.x kernel
 // with compiled version for FreeBSD 13.0
+
+VERY IMPOTANT!
+Please add this options to loader.conf:
+
+hw.re.msi_disable=1
+hw.re.msix_disable=1
+hw.re.eee_enable=0
+hw.re.phy_power_saving=0
+hw.re.phy_mdix_mode=0
+---------------------------------------------------------------------------------
 
 
 =================================================================================
